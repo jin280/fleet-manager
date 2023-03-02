@@ -1,5 +1,5 @@
 # Fleet Manager
-The Fleet Manager App is a web application built with [Svelte](https://svelte.dev/) that displays a list of active excavators on a site and allows users to click on a machine to view its details. The app uses a mock JSON file included in the api folder.
+The Fleet Manager is a web application built with [Svelte](https://svelte.dev/) that displays a list of active excavators on a site and allows users to click on a machine to view its details.
 
 ## Requirements
 - [Node.js](https://nodejs.org/en/) version 14 or higher
